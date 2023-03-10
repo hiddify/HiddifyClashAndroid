@@ -1,4 +1,0 @@
-[submodule "clash-foss"]
-	path = core/src/foss/golang/clash
-	url = https://github.com/hiddify/Clash.Meta
-	branch = android-open
