@@ -56,6 +56,12 @@ jobs:
         with:
           arguments: --no-daemon app:assembleMeta-AlphaRelease
 
+      - name: release Build aab
+        if: success()
+        uses: gradle/gradle-build-action@v2
+        with:
+          arguments: --no-daemon app:assembleMeta-bundleAlphaRelease
+
       - name: Upload Alpha
         uses: softprops/action-gh-release@v1
         if: ${{  success() }}
