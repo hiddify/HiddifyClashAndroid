@@ -60,7 +60,7 @@ jobs:
         if: success()
         uses: gradle/gradle-build-action@v2
         with:
-          arguments: --no-daemon app:assembleMeta-bundleAlphaRelease
+          arguments: --no-daemon app:bundleMeta-AlphaRelease
 
       - name: Upload Alpha
         uses: softprops/action-gh-release@v1
