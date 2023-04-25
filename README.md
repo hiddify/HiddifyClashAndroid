@@ -1,4 +1,4 @@
-## HiddifyProxy
+## HiddifyClash
 
 ### Feature
 

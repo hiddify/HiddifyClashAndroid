@@ -6,7 +6,7 @@
     <string name="access_control_packages">訪問控制應用包列表</string>
     <string name="append_system_dns">追加系統 DNS</string>
     <string name="application_broken">應用損壞</string>
-    <string name="application_name">HiddifyProxy</string>
+    <string name="application_name">HiddifyClash</string>
     <string name="auto_update">自動更新</string>
     <string name="behavior">行為</string>
     <string name="bypass_private_network">繞過私有網絡</string>
@@ -43,7 +43,7 @@
     <string name="import_from_url">從 URL 導入</string>
     <string name="interface_">界面</string>
     <string name="invalid_url">無效的 URL</string>
-    <string name="launch_name">HiddifyProxy</string>
+    <string name="launch_name">HiddifyClash</string>
     <string name="logcat">Logcat</string>
     <string name="logs">日誌</string>
     <string name="mode">模式</string>
@@ -83,7 +83,7 @@
     <string name="github_issues">Github Issues</string>
     <string name="tips_properties"><![CDATA[僅接受 <strong>Clash 配置文件</strong>(包含<strong>代理</strong>/<strong>規則</strong>)]]></string>
     <string name="loading">載入中</string>
-    <string name="tips_help"><![CDATA[HiddifyProxy 是一個<strong>免費軟件</strong>並且我們<strong>不</strong>為其提供任何服務, <strong>請務必不要反饋非應用自身引起的問題</strong>]]></string>
+    <string name="tips_help"><![CDATA[HiddifyClash 是一個<strong>免費軟件</strong>並且我們<strong>不</strong>為其提供任何服務, <strong>請務必不要反饋非應用自身引起的問題</strong>]]></string>
     <string name="donate">捐贈</string>
     <string name="allow_all_apps">允許所有應用</string>
     <string name="allow_selected_apps">僅允許已選擇的應用</string>
@@ -206,12 +206,12 @@
     <string name="mode_switch_tips">僅在本次會話中有效</string>
     <string name="import_">導入</string>
     <string name="sources">源代碼</string>
-    <string name="clash_meta_core">HiddifyProxy 核心</string>
+    <string name="clash_meta_core">HiddifyClash 核心</string>
     <string name="name_server_policy">Name Server 策略</string>
     <string name="block_loopback">阻止本地迴環</string>
     <string name="block_loopback_summary">阻止本地迴環連接</string>
-    <string name="clash_meta_for_android">HiddifyProxy</string>
-    <string name="clash_meta_wiki">HiddifyProxy Wiki</string>
+    <string name="clash_meta_for_android">HiddifyClash</string>
+    <string name="clash_meta_wiki">HiddifyClash Wiki</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>

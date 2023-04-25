@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launch_name">HiddifyProxy</string>
-    <string name="application_name">HiddifyProxy</string>
+    <string name="launch_name">HiddifyClash</string>
+    <string name="application_name">HiddifyClash</string>
     <string name="stopped">중지됨</string>
     <string name="tap_to_start">연결하려면 터치</string>
     <string name="running">연결중</string>
@@ -160,7 +160,7 @@
     <string name="select_none">모두 해제</string>
     <string name="import_from_clipboard">클립보드에서 가져오기</string>
     <string name="export_to_clipboard">클립보드로 내보내기</string>
-    <string name="clash_meta_for_android">HiddifyProxy</string>
+    <string name="clash_meta_for_android">HiddifyClash</string>
     <string name="document">문서</string>
     <string name="feedback">피드백</string>
     <string name="sources">소스</string>
@@ -168,9 +168,9 @@
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">HiddifyProxy 코어</string>
+    <string name="clash_meta_core">HiddifyClash 코어</string>
     <string name="tips_properties"><![CDATA[<strong>Clash 구성 파일</strong>(<strong>프록시</strong>/<strong>규칙</strong> 포함)만 추가할 수 있습니다.]]></string>
-    <string name="tips_help"><![CDATA[HiddifyProxy는 <strong>프리웨어</strong>이며, <strong>우회 서비스 제공자가 아닙니다.</strong> 따라서, <strong>앱 자체 이외의 문제에 대한 피드백은 받지 않습니다.</strong>]]></string>
+    <string name="tips_help"><![CDATA[HiddifyClash는 <strong>프리웨어</strong>이며, <strong>우회 서비스 제공자가 아닙니다.</strong> 따라서, <strong>앱 자체 이외의 문제에 대한 피드백은 받지 않습니다.</strong>]]></string>
     <string name="app">앱</string>
     <string name="service">서비스</string>
     <string name="dark_mode">다크 모드</string>
@@ -215,7 +215,7 @@
     <string name="version_updated">앱 버전이 업데이트되었습니다.</string>
     <string name="version_updated_tips">구성이 삭제되었으므로 이전 구성 파일을 다시 저장해야 합니다.</string>
     <string name="mode_switch_tips">현재 세션에서만 유요합니다.</string>
-    <string name="clash_meta_wiki">HiddifyProxy Wiki</string>
+    <string name="clash_meta_wiki">HiddifyClash Wiki</string>
     <string name="meta_features">Meta 기능</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata 모드</string>

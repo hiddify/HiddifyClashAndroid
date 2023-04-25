@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launch_name">HiddifyProxy</string>
-    <string name="application_name">HiddifyProxy</string>
+    <string name="launch_name">HiddifyClash</string>
+    <string name="application_name">HiddifyClash</string>
     <string name="stopped">停止中</string>
     <string name="tap_to_start">タップしてスタート</string>
     <string name="running">実行中</string>
@@ -160,7 +160,7 @@
     <string name="select_none">クリア</string>
     <string name="import_from_clipboard">クリップボードからインポート</string>
     <string name="export_to_clipboard">クリップボードにエクスポート</string>
-    <string name="clash_meta_for_android">HiddifyProxy</string>
+    <string name="clash_meta_for_android">HiddifyClash</string>
     <string name="document">ドキュメント</string>
     <string name="feedback">フィードバック</string>
     <string name="sources">ソース</string>
@@ -168,9 +168,9 @@
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">HiddifyProxy Core</string>
+    <string name="clash_meta_core">HiddifyClash Core</string>
     <string name="tips_properties"><![CDATA[<strong>Clashプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)]]></string>
-    <string name="tips_help"><![CDATA[HiddifyProxyは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
+    <string name="tips_help"><![CDATA[HiddifyClashは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
     <string name="app">アプリ</string>
     <string name="service">サービス</string>
     <string name="dark_mode">ダークモード</string>
@@ -215,7 +215,7 @@
     <string name="version_updated">アプリを更新しました</string>
     <string name="version_updated_tips">未設定のプロファイルは、再度保存する必要があります。</string>
     <string name="mode_switch_tips">このセッションでのみ有効です</string>
-    <string name="clash_meta_wiki">HiddifyProxy Wiki</string>
+    <string name="clash_meta_wiki">HiddifyClash Wiki</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
