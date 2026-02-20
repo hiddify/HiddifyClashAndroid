@@ -1,7 +1,7 @@
 
 ## HiddifyClash
 
-# Please use github.com/hiddify/hiddify-app instead
+# Please use [github.com/hiddify/hiddify-app](github.com/hiddify/hiddify-app) instead
 
 ### Feature
 
