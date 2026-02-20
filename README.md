@@ -1,4 +1,7 @@
+
 ## HiddifyClash
+
+# Please use github.com/hiddify/hiddify-app instead
 
 ### Feature
 
